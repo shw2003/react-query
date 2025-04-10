@@ -16,8 +16,3 @@ A simple Full Stack CRUD app using:
 - ❌ Delete users
 - 🔃 Auto-refresh using React Query
 - 🔒 CORS-enabled backend
-
----
-
-## 📁 Project Structure
-
